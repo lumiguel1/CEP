@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+#teste form{
+    width: 1380px;
+    height: 700px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+#teste button{
+    margin: 20px;
+}
+#teste h1{
+    font-family: 'Fjalla One', sans-serif;
+}

@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+#page-home .inicio {
+    color: red;
+    width: 500px;
+    height: 500px;
+}
+#page-home .inicio button{
+    align-items: center;
+    justify-content: center;
+}
